@@ -1,0 +1,2 @@
+﻿  Enums with if statments.cpp
+D:\Documents\c++\Enums with if statments\Enums with if statments.cpp(24): error C4700: uninitialized local variable 'country' used

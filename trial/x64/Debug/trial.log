@@ -1,0 +1,3 @@
+﻿  trial.cpp
+D:\Documents\c++\trial\trial.cpp(17,22): warning C4101: 'temp': unreferenced local variable
+  trial.vcxproj -> D:\Documents\c++\trial\x64\Debug\trial.exe

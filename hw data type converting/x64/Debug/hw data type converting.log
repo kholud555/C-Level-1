@@ -1,0 +1,4 @@
+﻿  hw data type converting.cpp
+D:\Documents\c++\hw data type converting\hw data type converting.cpp(26,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hw data type converting\hw data type converting.cpp(28,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  hw data type converting.vcxproj -> D:\Documents\c++\hw data type converting\x64\Debug\hw data type converting.exe

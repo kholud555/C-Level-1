@@ -1,0 +1,3 @@
+﻿  variables.cpp
+D:\Documents\c++\variables\variables.cpp(14,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  variables.vcxproj -> D:\Documents\c++\variables\x64\Debug\variables.exe

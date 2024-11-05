@@ -1,0 +1,4 @@
+﻿  hw string.cpp
+D:\Documents\c++\hw string\hw string.cpp(28,25): warning C4129: '*': unrecognized character escape sequence
+D:\Documents\c++\hw string\hw string.cpp(28,44): warning C4129: '=': unrecognized character escape sequence
+  hw string.vcxproj -> D:\Documents\c++\hw string\x64\Debug\hw string.exe

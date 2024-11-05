@@ -1,0 +1,3 @@
+﻿  hm problem 16.cpp
+D:\Documents\c++\hm problem 16\hm problem 16.cpp(8,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  hm problem 16.vcxproj -> D:\Documents\c++\hm problem 16\x64\Debug\hm problem 16.exe

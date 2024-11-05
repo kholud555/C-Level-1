@@ -1,0 +1,1 @@
+D:\Documents\c++\variables scopes\x64\Debug\variables scopes.exe

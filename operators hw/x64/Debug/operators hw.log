@@ -1,0 +1,12 @@
+﻿  operators hw.cpp
+D:\Documents\c++\operators hw\operators hw.cpp(16,36): warning C4129: '=': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(16,36): warning C4129: ' ': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(17,32): warning C4129: '=': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(17,32): warning C4129: ' ': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(18,32): warning C4129: '=': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(18,32): warning C4129: ' ': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(19,32): warning C4129: '=': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(19,32): warning C4129: ' ': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(20,32): warning C4129: '=': unrecognized character escape sequence
+D:\Documents\c++\operators hw\operators hw.cpp(20,32): warning C4129: ' ': unrecognized character escape sequence
+  operators hw.vcxproj -> D:\Documents\c++\operators hw\x64\Debug\operators hw.exe

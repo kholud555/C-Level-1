@@ -1,0 +1,3 @@
+﻿  data type conversion.cpp
+D:\Documents\c++\data type conversion\data type conversion.cpp(12,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  data type conversion.vcxproj -> D:\Documents\c++\data type conversion\x64\Debug\data type conversion.exe

@@ -1,0 +1,43 @@
+ 
+
+#include <iostream>
+
+int main()
+{
+    std::cout << "******************************************************************************\n";
+    std::cout << "Name : kholud Ahmed.\n";
+    std::cout << "Age  :24 years.\n";
+    std::cout << "city :ELfayoum.\n";
+    std::cout << " country: Egypt.\n";
+    std::cout << "******************************************************************************\n\n\n\n\n";
+     
+
+    st::cout << "*******************************\n";
+    std::cout << "*******************************\n";
+    std::cout << "*******************************\n";
+    std::cout << "*******************************\n";
+    std::cout << "*******************************\n\n\n\n\n\n\n\n";
+
+    std::cout << "I love programming!\n\n\n";
+     std::cout << "I promise to be best developer ever!\n\n\n";
+     std::cout << "I know it will take time to practice,but I \n will achieve my goal.\n\n\n";
+     std::cout << "Best regards.\n";
+     std::cout << "Mohamed Abu-Hadhoud.\n\n\n";
+
+
+
+     std::cout << "*    *\n";
+     std::cout << "*    *\n";
+     std::cout << "******\n";
+     std::cout << "*    *\n";
+     std::cout << "*    *\n";
+
+
+
+    
+    
+
+    return 0;
+}
+
+
